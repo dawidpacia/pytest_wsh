@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.idea
+*.pytest_cache
+temp/
+report.html
+assets/
 
 # C extensions
 *.so
