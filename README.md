@@ -1,3 +1,3 @@
 # pytest_wsh
 
-install "pytes`t" module
+pip install pytest
